@@ -62,3 +62,9 @@ http://localhost:8080/fruita/delete/{id}
 http://localhost:8080/fruita/getOne/{id}
 
 http://localhost:8080/fruita/getAll
+
+## Rercursos addicionals
+
+¿Qué es Hibernate? - https://ifgeekthen.nttdata.com/es/que-es-java-hibernate-por-que-usarlo
+
+StackOverflow - Service layer: https://stackoverflow.com/questions/5702391/mvcs-model-view-controller-service
